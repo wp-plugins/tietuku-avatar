@@ -8,9 +8,7 @@ Stable tag: 4.3
 License: GPLv3
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
 
-Use Tietuku Avatar service to replace Gravatar. And replace Google fonts and scripts with USTC mirror.
-
-用贴图库头像服务替代Gravatar。同时用中国电子科技大学的镜像替代Google的字体和脚本。
+Use Tietuku Avatar service to replace Gravatar. And replace Google fonts and scripts with USTC mirror. 用贴图库头像服务替代Gravatar。同时用中国电子科技大学的镜像替代Google的字体和脚本。
 
 == Description ==
 
