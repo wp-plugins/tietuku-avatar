@@ -8,7 +8,7 @@ Stable tag: 4.3
 License: GPLv3
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
 
-Use Tietuku Avatar service to replace Gravatar. And replace Google fonts and scripts with USTC mirror. 用贴图库头像服务替代Gravatar。同时用中国电子科技大学的镜像替代Google的字体和脚本。
+Use Tietuku Avatar service to replace Gravatar. And replace Google fonts and scripts. 用贴图库头像服务替代Gravatar。并且替换Google字体和脚本。
 
 == Description ==
 
@@ -27,6 +27,11 @@ This plugin replaces build-in Gravatar with Tietuku Avatar Service. And replace 
 
 == Changelog ==
 
+= 0.2.1 =
+Fix: replacing avatar failed.
+
+修复：替换头像失败。
+
 = 0.2 =
 New: Replace Google hosted fonts and scripts with USTC mirror, for Chinese users.
 
@@ -36,4 +41,3 @@ New: Replace Google hosted fonts and scripts with USTC mirror, for Chinese users
 First Release.
 
 初次发布。
-
